@@ -74,6 +74,9 @@ Helps track progress toward sustainability goals.
 
 <img width="1773" height="570" alt="image" src="https://github.com/user-attachments/assets/d71f8084-9771-4773-8791-aae31bedae38" />
 
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/6b9652f4-bf49-444e-b086-7e5c6d0eefe6" />
+
+
 
 ## Technology Stack
 Frontend: React.js
