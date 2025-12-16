@@ -72,6 +72,9 @@ Helps track progress toward sustainability goals.
 
 4.Recycling facilities analyzing operational performance
 
+<img width="1773" height="570" alt="image" src="https://github.com/user-attachments/assets/d71f8084-9771-4773-8791-aae31bedae38" />
+
+
 ## Technology Stack
 Frontend: React.js
 
